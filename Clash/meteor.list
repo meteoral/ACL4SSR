@@ -148,4 +148,9 @@ DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,account.synology.com
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,dynamicdns.park-your-domain.com
+
+# 内容：meteoral
+DOMAIN-SUFFIX,meteoral.top
+DOMAIN-SUFFIX,liuqingwei.com
